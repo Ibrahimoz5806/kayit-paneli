@@ -51,4 +51,3 @@ Katkıda bulunmak isterseniz:
 ## 📄 Lisans
 
 Bu proje açık kaynaklıdır. Dilerseniz kendi projelerinizde referans olarak kullanabilirsiniz.
-```
