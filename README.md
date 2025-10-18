@@ -1,37 +1,39 @@
 
-# Kayıt Paneli
+
+```markdown
+# Kayıt Paneli 📝
 
 Bu proje, HTML ve CSS kullanılarak hazırlanmış sade ve kullanıcı dostu bir **kayıt paneli arayüzüdür**. Form tasarımı, responsive yapı ve temel stil özellikleriyle birlikte GitHub Pages üzerinden yayınlanmıştır.
 
-## 🔍 Özellikler
+## 🔗 Yayın
+
+📍 Canlı siteyi ziyaret edin:  
+👉 [https://ibrahimoz5806.github.io/kayit-paneli/](https://ibrahimoz5806.github.io/kayit-paneli/)
+
+## 🧩 Özellikler
 
 - ✅ HTML5 semantik yapı
 - 🎨 Temiz ve sade CSS tasarımı
 - 📱 Mobil uyumlu (responsive)
-- 🧩 Font Awesome ikon entegrasyonu
-- 🛡️ Form alanları: Ad, E-posta, Şifre
-
-## 🌐 Yayın
-
-GitHub Pages üzerinden canlı olarak görüntüleyebilirsiniz:  
-👉 [https://ibrahimoz5806.github.io/kayit-paneli/](https://ibrahimoz5806.github.io/kayit-paneli/)
+- 🔐 Form alanları: Ad, E-posta, Şifre
+- 🌈 Renkli butonlar ve giriş alanları
 
 ## 📁 Dosya Yapısı
 
-
+```
 kayit-paneli/
 ├── index.html
 ├── style.css
 ├── README.md
 └── /assets (görseller veya ikonlar varsa)
-
+```
 
 ## 🛠️ Kullanım
 
-1. Repo’yu klonlayın:
-   
+1. Bu repoyu klonlayın:
+   ```
    git clone https://github.com/Ibrahimoz5806/kayit-paneli.git
-   
+   ```
 2. Tarayıcınızda `index.html` dosyasını açın.
 3. CSS dosyasını düzenleyerek kendi stilinizi uygulayabilirsiniz.
 
@@ -50,4 +52,8 @@ Katkıda bulunmak isterseniz:
 
 ## 📄 Lisans
 
-Bu proje açık kaynaklıdır. Dilerseniz kendi projelerinizde referans olarak kullanabilirsiniz.
+Bu proje açık kaynaklıdır. Eğitim ve portföy amaçlı kullanıma uygundur.
+```
+
+---
+
